@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**Duckin99/Duckin99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
+- My name is Kittichon Chaonawig (Duckin)
+- I'm currently a computer engineering student at Chulalongkorn University
+- I'm passionate about AI/Ml and fields of Datasci
 
-Here are some ideas to get you started:
+### Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Breast Cancer Diagnosis](https://github.com/Duckin99/Breast-Cancer-Diagnosis):** Project focused on diagnosing breast cancer using machine learning.
+- **[VERITAS](https://github.com/Duckin99/VERITAS):** Project aimed at Sustainable Development Goals 4: Quality Education.
+
+### Contact
+
+- 📫 How to reach me: [kittichon.not@gmail.com](mailto:kittichon.not@gmail.com)
+
+Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
