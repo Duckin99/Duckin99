@@ -1,17 +1,12 @@
-## Hi there 👋
+# Welcome to my github profile! 👋
 
-### About me
-- My name is Kittichon Chaonawig (Duckin)
-- I'm currently a computer engineering student at Chulalongkorn University
-- I'm passionate about AI/Ml and fields of Datasci
+I'm Kittichon Chaonawig (Not), a Computer Engineering student at Chulalongkorn University. I'm interested in Machine Learning, Computer Vision, and Backend Development.
 
-### Projects
+## Projects
 
-- **[Breast Cancer Diagnosis](https://github.com/Duckin99/Breast-Cancer-Diagnosis):** Project focused on diagnosing breast cancer using machine learning.
-- **[VERITAS](https://github.com/Duckin99/VERITAS):** Project aimed at Sustainable Development Goals 4: Quality Education.
+- [Ray tracing for Motion Blur in Static Scene](https://github.com/haminic/rust-raytracer) This project was developed as part of 2110479 Computer Graphics (2025/1).
+- [Intania Expo 2025](github.com/esc-chula/intania-expo-2025). Worked as backend developer. 
+- [The Efficiency of the Transformer Model in Breast Cancer Diagnosis](github.com/Duckin99/Breast-Cancer-Diagnosis). The project earned 1st Place in the Global Leadership Link 2023, Singapore, a Gold Medal at the 12th International Future Scientists Conference, Malaysia, and an Honorable Mention in the Young Scientist Competition.
+- [VERITAS](https://github.com/Duckin99/VERITAS). Achieved 3rd Place Award in The 13th e-ICON World Contest 2023, Korea
 
-### Contact
-
-- 📫 How to reach me: [kittichon.not@gmail.com](mailto:kittichon.not@gmail.com)
-
-Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
+(Last updated 18 Dec 2025)
